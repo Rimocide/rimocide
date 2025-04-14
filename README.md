@@ -29,32 +29,22 @@
 
 ---
 
-### 📈 Notable Projects
-#### 🧠 RentiAnalyzer  
-**Python, Flask, HTML/CSS, NLTK, ChatGPT**  
-• Built a Flask-based sentiment analysis app for 10,000+ Reddit comments  
-• Applied NLP with NLTK to track trends with 85% accuracy  
-• Integrated ChatGPT and Wikipedia summarization for real-time insights
+### 💻 Featured Projects
 
-#### 🎥 CamEye CVision  
-**Python, Tkinter, OpenCV**  
-• Created a real-time computer vision tool for object and face detection  
-• Integrated COCO models and webcam stream with OpenCV  
-• Improved model speed and detection accuracy by 25%
+- **🧠 RentiAnalyzer** – *Python, Flask, NLTK, ChatGPT*  
+  Reddit sentiment analysis tool using NLP (85% accuracy), ChatGPT summarizer & Wikipedia search.
 
-#### 📊 Walmart Power BI Dashboard  
-**Power BI, Excel, DAX**  
-• Built an interactive dashboard analyzing $10M+ Walmart sales data  
-• Used Power Query and DAX to highlight seasonal trends and growth  
-• Enhanced report interactivity with filters and real-time visuals
+- **🎥 CamEye CVision** – *Python, OpenCV, Tkinter*  
+  Real-time object & face detection app with webcam and COCO model integration (95% accuracy).
 
-#### 🛣 RoadGauge AI Backend Optimization  
-**Firebase, Express.js, Firestore**  
-• Reduced frontend load by 40% through backend API refactoring  
-• Managed 10,000+ road defect records and improved retrieval speed by 30%  
-• Analyzed 100+ user sessions to optimize UI/UX for faster reporting
+- **📊 Walmart Dashboard** – *Power BI, Excel, DAX*  
+  Interactive sales dashboard analyzing $10M+ data, optimized with Power Query & advanced DAX.
+
+- **🛣 RoadGauge Backend** – *Firebase, Express, Firestore*  
+  Shifted heavy frontend ops to backend, reduced load time by 40%, managed 10k+ records efficiently.
 
 ---
+
 
 ### 🌍 Languages
 - 🇬🇧 English – Fluent  
