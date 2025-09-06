@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdullah Mustafa 👋</h1>
-<p align="center"><b>Junior Year Data Science Student @ GIK | AI & Backend Developer | Aspiring Grad Student in 🇩🇪</b></p>
+<p align="center"><b>Final Year Data Science Student @ GIK | AI & Backend Developer | Aspiring Grad Student in 🇩🇪</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D5BCE&center=true&vCenter=true&width=600&lines=Data+Science+Student+%7C+AI+and+Analytics+Enthusiast;Backend+Part-Timer+at+RoadGauge+Ltd.;Building+Real-Time+AI+Apps+%F0%9F%9A%80" alt="Typing SVG" />
