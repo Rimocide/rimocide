@@ -2,7 +2,7 @@
 <p align="center"><b>Junior Year Data Science Student @ GIK | AI & Backend Developer | Aspiring Grad Student in 🇩🇪</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D5BCE&center=true&vCenter=true&width=600&lines=Data+Science+Student+%7C+AI+and+Analytics+Enthusiast;Backend+Intern+at+RoadGauge+Ltd.;Building+Real-Time+AI+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4D5BCE&center=true&vCenter=true&width=600&lines=Data+Science+Student+%7C+AI+and+Analytics+Enthusiast;Backend+Part-Timer+at+RoadGauge+Ltd.;Building+Real-Time+AI+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 💻 Projects
 
 - **RentiAnalyzer** *(Python, Flask, NLTK)* — Reddit sentiment analyzer w/ 85% accuracy & ChatGPT summarizer  
-- **CamEye CVision** *(Python, OpenCV)* — Real-time object & face detection with webcam  
+- **ExoDetect** *(Python, OpenCV)* — Video to 2D/3D animation software
 - **Walmart Dashboard** *(Power BI, Excel)* — $10M+ sales visualized with DAX + filters  
 - **RoadGauge Backend** *(Firebase, Express)* — Cut frontend load by 40%, managed 10k+ records
 
